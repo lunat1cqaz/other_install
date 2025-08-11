@@ -8,6 +8,7 @@
 <img width="753" height="728" alt="image" src="https://github.com/user-attachments/assets/a6c55a2b-9534-4e3f-9c96-7f6d6d605bd0" /><br>
 в появившимся окне нажимаем на "Программа", после выбираем пункт "Добавить профиль из буфера обмена" (ЗАРАНЕЕ СКОПИРУЙТЕ ЛИЧНЫЙ КЛЮЧ), у нас появляется подключение <img width="799" height="628" alt="image" src="https://github.com/user-attachments/assets/f95d0039-326b-4752-a513-00849b4f73fa" /><br>
 после требуется установить "режим TUN"<br>
+
 <img width="793" height="622" alt="image" src="https://github.com/user-attachments/assets/cfc8ade7-0496-43b3-bea0-5a31800d9003" /><br>
 теперь можем подключаться: нажав ПКМ(правой кнопкой мыши) по добавленному подключению и выбрав пункт "Запустить" происходит подключение к VPN.
 

@@ -3,9 +3,10 @@
 
 # Как настроить программу, подключиться ? (Windows, для других операционных систем аналогично).
 
-1. Альтернативная программа с общим VPN доступом(нет гибкой настройки) - скачиваем программу <link>https://github.com/hiddify/hiddify-app?tab=readme-ov-file</link><br>
+1. Альтернативная программа с общим VPN доступом(нет гибкой настройки) - скачиваем программу по ссылке <link>https://github.com/hiddify/hiddify-app?tab=readme-ov-file</link><br>
 
-<img width="897" height="573" alt="image" src="https://github.com/user-attachments/assets/1c6e1279-7d13-432b-b8dc-e027fb2a5f9b" />
+<img width="293" height="496" alt="image" src="https://github.com/user-attachments/assets/62a4a5fc-2735-42ac-b1c4-06ca62fcb4b6" /><br>
+
 
 2. Для гибкой настройки трафика - Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку. <img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>
 

@@ -9,7 +9,6 @@
 
 <img width="293" height="496" alt="image" src="https://github.com/user-attachments/assets/62a4a5fc-2735-42ac-b1c4-06ca62fcb4b6" /><br>
 
-
 2. Для гибкой настройки VPN трафика - Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку. <img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>
 
 2.1. Для WINDOWS(для других аналогично) - запускаем файл "NekoBox" от имени администратора.<br>

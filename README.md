@@ -37,10 +37,9 @@
 <img width="801" height="757" alt="image" src="https://github.com/user-attachments/assets/8f9fa87b-1397-4394-8043-02641e5fdb21" /><br>
 
 # Где взять домен ?:
-Можно найти всё на просторах интернета либо:
-<a href="https://github.com/lunat1cqaz/other_install/blob/main/All_Domain%60s_list.txt">All_Domain_List.txt</a>
-<li><link>https://github.com/lunat1cqaz/other_install/blob/main/All_Domain%60s_list.txt</link> - список запрещенных сайтов.</li>
-<li><link>https://github.com/lunat1cqaz/other_install/blob/main/Domain%60s_list.txt</link> - домены сайтов(подготовлено для NekoRay(nekobox программы)): Youtube, ChatGPT, Discord, Instagram, Facebook, Meta, Spotify.</li>
+Можно найти всё на просторах интернета либо:<br>
+<li><a href="https://github.com/lunat1cqaz/other_install/blob/main/All_Domain%60s_list.txt">All_Domain_List.txt</a> - список запрещенных сайтов.</li>
+<li><a href="https://github.com/lunat1cqaz/other_install/blob/main/Domain%60s_list.txt</link">Domain_List.txt</a> - домены сайтов(подготовлено для NekoRay(nekobox программы)): Youtube, ChatGPT, Discord, Instagram, Facebook, Meta, Spotify.</li>
 
 # Для мобильных устройствойств, планшетов(операционная система IOS/Andoid):
 1. IOS - переходим в AppStore и скачиввем приложение "Streisand", после копируем приватный ключ и добавляем подключение, перейдя в приложение и жмем на " + ", в правом верхнем углу и выбираемм "Добавить из буфера".<br>

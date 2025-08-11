@@ -5,14 +5,15 @@
 
 # Как настроить программу, подключиться ? (Windows, для других операционных систем аналогично).
 
-1. Программа с общим VPN доступом(нет гибкой настройки) - скачиваем по ссылке: <link>https://github.com/hiddify/hiddify-app/releases</link>, рекомендую стабильную версию, v2.0.5
+<li>1. Программа с общим VPN доступом(нет гибкой настройки) - скачиваем по ссылке: <link>https://github.com/hiddify/hiddify-app/releases</link>, рекомендую стабильную версию, v2.0.5</li>
 
-<img width="912" height="676" alt="image" src="https://github.com/user-attachments/assets/8f7ed72a-5d89-4534-a3f4-413e79eb38f6" /></br>
+<img width="912" height="676" alt="image" src="https://github.com/user-attachments/assets/8f7ed72a-5d89-4534-a3f4-413e79eb38f6" /><br>
 
 
-2. Для гибкой настройки VPN трафика - Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку. <img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>
+<li>2. Для гибкой настройки VPN трафика - Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку.</li>
+<img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>
 
-2.1. Для WINDOWS(для других аналогично) - запускаем файл "NekoBox" от имени администратора.<br>
+<li>2.1. Для WINDOWS(для других аналогично) - запускаем файл "NekoBox" от имени администратора.</li><br>
 
 <img width="753" height="728" alt="image" src="https://github.com/user-attachments/assets/a6c55a2b-9534-4e3f-9c96-7f6d6d605bd0" /><br>
 

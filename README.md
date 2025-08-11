@@ -5,8 +5,11 @@
 
 1. Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку. <img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>
 2. Для WINDOWS(для других аналогично) - запускаем файл "NekoBox" от имени администратора<br>
+
 <img width="753" height="728" alt="image" src="https://github.com/user-attachments/assets/a6c55a2b-9534-4e3f-9c96-7f6d6d605bd0" /><br>
-в появившимся окне нажимаем на "Программа", после выбираем пункт "Добавить профиль из буфера обмена" (ЗАРАНЕЕ СКОПИРУЙТЕ ЛИЧНЫЙ КЛЮЧ), у нас появляется подключение <img width="799" height="628" alt="image" src="https://github.com/user-attachments/assets/f95d0039-326b-4752-a513-00849b4f73fa" /><br>
+в появившимся окне нажимаем на "Программа", после выбираем пункт "Добавить профиль из буфера обмена" (ЗАРАНЕЕ СКОПИРУЙТЕ ЛИЧНЫЙ КЛЮЧ), у нас появляется подключение<br>
+
+<img width="799" height="628" alt="image" src="https://github.com/user-attachments/assets/f95d0039-326b-4752-a513-00849b4f73fa" /><br>
 после требуется установить "режим TUN"<br>
 
 <img width="793" height="622" alt="image" src="https://github.com/user-attachments/assets/cfc8ade7-0496-43b3-bea0-5a31800d9003" /><br>

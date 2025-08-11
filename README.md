@@ -45,6 +45,10 @@
 
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed1529db-bef0-445c-a506-c2a9ba3a1bcd" /><br>
 
+# Исходные ссылки на программы:
+1. https://github.com/hiddify/hiddify-app?tab=readme-ov-file
+2. https://github.com/MatsuriDayo/nekoray
+
 2. Android - переходим в Google Play / Play Market или альтернативу и скачиваем приложение "v2RayTun", после копируем приватный ключ и добавляем подключение, перейдя в приложение и жмем на " + ", в правом верхнем углу и выбираем "Импорт из буфера обмена".<br>
 
 <img width="1280" height="836" alt="image" src="https://github.com/user-attachments/assets/7003415f-2f93-46e9-ba44-4e4093e09cab" /><br>

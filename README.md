@@ -5,7 +5,7 @@
 
 # Как настроить программу, подключиться ? (Windows, для других операционных систем аналогично).
 
-<li>1. Программа с общим VPN доступом(нет гибкой настройки) - скачиваем по ссылке: <link>https://github.com/hiddify/hiddify-app/releases</link>, рекомендую стабильную версию, v2.0.5</li>
+<li>1. Программа с общим VPN доступом(нет гибкой настройки) - скачиваем по ссылке: <link>https://github.com/hiddify/hiddify-app/releases</link>, рекомендую стабильную версию, v2.0.5</li><br>
 
 <img width="912" height="676" alt="image" src="https://github.com/user-attachments/assets/8f7ed72a-5d89-4534-a3f4-413e79eb38f6" /><br>
 

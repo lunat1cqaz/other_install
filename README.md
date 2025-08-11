@@ -54,3 +54,4 @@
 # Исходные ссылки на программы:
 1. https://github.com/hiddify/hiddify-app?tab=readme-ov-file
 2. https://github.com/MatsuriDayo/nekoray
+3. https://github.com/StreisandEffect/streisand

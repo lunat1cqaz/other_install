@@ -48,6 +48,10 @@ domain:youtubekids.com
 domain:instagram.com
 domain:cdninstagram.com
 domain:meta.com
-domain:facebook.com
-domain:facebook.net
-domain:spotify.com
+domain:googlevideo.com
+domain:nhacmp3youtube.com
+domain:1e100.net
+domain:ytimg.com
+domain:gvt1.com
+domain:googleusercontent.com
+domain:gstatic.com

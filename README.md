@@ -11,7 +11,7 @@
 # Как настроить программу, подключиться ?
 
 1. Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку. <img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>
-2. Для WINDOWS - запускаем файл "NekoBox" от имени администратора <img width="625" height="821" alt="image" src="https://github.com/user-attachments/assets/04548e77-3c05-407b-86bd-7b52542e2e9b" />
+2. Для WINDOWS - запускаем файл "NekoBox" от имени администратора <img width="625" height="821" alt="image" src="https://github.com/user-attachments/assets/04548e77-3c05-407b-86bd-7b52542e2e9b" /><br>
 в появившимся окне нажимаем на "Программа", после выбираем пункт "Добавить профиль из буфера обмена" (ЗАРАНЕЕ СКОПИРУЙТЕ ЛИЧНЫЙ КЛЮЧ), у нас появляется подключение <img width="800" height="631" alt="image" src="https://github.com/user-attachments/assets/4e58b6fb-b2a0-4497-91fc-7d13676f3a9f" />, после требуется установить "режим TUN" <img width="807" height="637" alt="image" src="https://github.com/user-attachments/assets/851c354b-aa4a-460f-a5d2-ee8a077b63bc" />, теперь можем подключаться:
  нажав ПКМ(правой кнопкой мыши) по добавленному подключению и выбрав пункт "Запустить" происходит подключение к VPN.
 

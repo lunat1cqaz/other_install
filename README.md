@@ -37,8 +37,8 @@
 
 <img width="801" height="757" alt="image" src="https://github.com/user-attachments/assets/8f9fa87b-1397-4394-8043-02641e5fdb21" /><br>
 
-# Где взять домен ?:
-Можно найти всё на просторах интернета либо:<br>
+# Где взять адрес домена ?
+Можно найти на просторах интернета либо:<br>
 <li><a href="https://github.com/lunat1cqaz/other_install/blob/main/All_Domain%60s_list.txt">All_Domain`s_list.txt</a> - список запрещенных сайтов.</li>
 <li><a href="https://github.com/lunat1cqaz/other_install/blob/main/Domain%60s_list.txt</link">Domain`s_list.txt</a> - домены сайтов(подготовлено для NekoRay(nekobox программы)): Youtube, ChatGPT, Discord, Instagram, Facebook, Meta, Spotify.</li>
 
@@ -47,11 +47,10 @@
 
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed1529db-bef0-445c-a506-c2a9ba3a1bcd" /><br>
 
-# Исходные ссылки на программы:
-1. https://github.com/hiddify/hiddify-app?tab=readme-ov-file
-2. https://github.com/MatsuriDayo/nekoray
-
 2. Android - переходим в Google Play / Play Market или альтернативу и скачиваем приложение "v2RayTun", после копируем приватный ключ и добавляем подключение, перейдя в приложение и жмем на " + ", в правом верхнем углу и выбираем "Импорт из буфера обмена".<br>
 
 <img width="1280" height="836" alt="image" src="https://github.com/user-attachments/assets/7003415f-2f93-46e9-ba44-4e4093e09cab" /><br>
 
+# Исходные ссылки на программы:
+1. https://github.com/hiddify/hiddify-app?tab=readme-ov-file
+2. https://github.com/MatsuriDayo/nekoray

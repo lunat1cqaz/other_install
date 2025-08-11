@@ -3,9 +3,13 @@
 
 # Как настроить программу, подключиться ? (Windows, для других операционных систем аналогично).
 
-1. Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку. <img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>
+1. Альтернативная программа с общим VPN доступом(нет гибкой настройки) - скачиваем программу <link>https://github.com/hiddify/hiddify-app?tab=readme-ov-file</link><br>
 
-2. Для WINDOWS(для других аналогично) - запускаем файл "NekoBox" от имени администратора.<br>
+<img width="897" height="573" alt="image" src="https://github.com/user-attachments/assets/1c6e1279-7d13-432b-b8dc-e027fb2a5f9b" />
+
+2. Для гибкой настройки трафика - Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку. <img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>
+
+2.1. Для WINDOWS(для других аналогично) - запускаем файл "NekoBox" от имени администратора.<br>
 
 <img width="753" height="728" alt="image" src="https://github.com/user-attachments/assets/a6c55a2b-9534-4e3f-9c96-7f6d6d605bd0" /><br>
 
@@ -19,7 +23,7 @@
 
 Теперь можем подключаться: нажав ПКМ(правой кнопкой мыши) по добавленному подключению и выбрав пункт "Запустить" происходит подключение к VPN.
 
-P.s. Если вам требуется маршрутизовать подключение для определенных сайтов, нам нужно проделать несколько этапов настрйоки:
+<li>P.s. Если вам требуется маршрутизовать подключение для определенных сайтов, нам нужно проделать несколько этапов настрйоки</li>:
 1. Нажать на кнопку "Настройки" -> "Настройка маршрутов".
 2. Базовые маршруты.
 3. OutBound по умолчанию выбрать "byPass".

@@ -10,6 +10,13 @@
 
 <img width="912" height="676" alt="image" src="https://github.com/user-attachments/assets/8f7ed72a-5d89-4534-a3f4-413e79eb38f6" /><br>
 
+Далее копируем персональный ключ и добавляем маршрут в программе.<br>
+
+<img width="847" height="656" alt="image" src="https://github.com/user-attachments/assets/a537a5c3-f9cb-4f82-a3b6-caf0780fbea2" />
+
+Запускать и останавливать работу по кнопке<br>
+
+<img width="843" height="652" alt="image" src="https://github.com/user-attachments/assets/18a2c082-b8d6-4d19-97b5-5d8094d860a9" />
 
 <li>2. Для гибкой настройки VPN трафика - Скачиваем программу NekoRay с <link>https://github.com/MatsuriDayo/nekoray/releases</link>, сейчас актуальная версия(не бета) 4.0.1 и распаковываем в удобную папку.</li>
 <img width="899" height="266" alt="image" src="https://github.com/user-attachments/assets/0b5bf9d5-4cde-4e38-b588-779f5c261162" /><br>

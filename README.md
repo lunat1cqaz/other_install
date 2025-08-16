@@ -8,7 +8,7 @@
 
 <li>1. Программа с общим VPN доступом(нет гибкой настройки) - скачиваем по ссылке: <link>https://github.com/hiddify/hiddify-app/releases</link>, рекомендую стабильную версию, v2.0.5</li><br>
 
-<img width="908" height="629" alt="image" src="https://github.com/user-attachments/assets/3874b5cb-b0ef-4069-9386-02521d7400a9" />><br>
+<img width="906" height="620" alt="image" src="https://github.com/user-attachments/assets/ff368c8c-c261-434b-b2bf-da8fa2d606eb" /><br>
 
 Далее копируем персональный ключ и добавляем маршрут в программе.<br>
 

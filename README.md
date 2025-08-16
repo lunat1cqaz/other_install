@@ -49,14 +49,21 @@
 <li><a href="https://github.com/lunat1cqaz/other_install/blob/main/All_Domain%60s_list.txt">All_Domain`s_list.txt</a> - список запрещенных сайтов.</li>
 <li><a href="https://github.com/lunat1cqaz/other_install/blob/main/Domain%60s_list.txt</link">Domain`s_list.txt</a> - домены сайтов(подготовлено для NekoRay(nekobox программы)): Youtube, ChatGPT, Discord, Instagram, Facebook, Meta, Spotify.</li>
 
-# Для мобильных устройствойств, планшетов(операционная система IOS/Andoid):
+# Для мобильных устройствойств, планшетов, телевизоров (операционная система IOS/Andoid):
 1. IOS - переходим в AppStore и скачиввем приложение "Streisand", после копируем приватный ключ и добавляем подключение, перейдя в приложение и жмем на " + ", в правом верхнем углу и выбираемм "Добавить из буфера".<br>
 
 <img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/ed1529db-bef0-445c-a506-c2a9ba3a1bcd" /><br>
 
-2. Android - переходим в Google Play / Play Market или альтернативу и скачиваем приложение "v2RayTun", после копируем приватный ключ и добавляем подключение, перейдя в приложение и жмем на " + ", в правом верхнем углу и выбираем "Импорт из буфера обмена".<br>
+2. Android - переходим в Google Play / Play Market или альтернативу и скачиваем приложение "v2RayTun", после копируем приватный ключ и добавляем подключение, перейдя в приложение жмем на " + ", в правом верхнем углу и выбираем "Импорт из буфера обмена".<br>
 
 <img width="1280" height="836" alt="image" src="https://github.com/user-attachments/assets/7003415f-2f93-46e9-ba44-4e4093e09cab" /><br>
+
+3. Anroid TV/Приставка - устанавливаем приложение " v2RayTun ", перейдя в придожение жмем на " + ", в правом верхнем углу и выбираем "Импорт из файла" и выбираем направленный файл (формат файла ".json").<br>
+
+p.s. Можно скачать приложение с сайта https://v2raytun.ru.uptodown.com/android , он будет с расширением APK, его копируем на сторонний носитель(флешку, переносной жесткий диск и т.п.) и вставляем носитель в устройство(телевизор/приставка), находим файл и открыв его - устанавливаем.<br>
+
+<img width="985" height="718" alt="image" src="https://github.com/user-attachments/assets/8ed9eded-4311-4d3e-9489-c46df5c0339e" /><br>
+
 
 # Исходные ссылки на программы:
 1. https://github.com/hiddify/hiddify-app?tab=readme-ov-file

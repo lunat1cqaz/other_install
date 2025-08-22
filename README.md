@@ -46,7 +46,7 @@
 
 # Где взять адрес домена ?
 Можно найти на просторах интернета либо:<br>
-<li><a href="https://github.com/lunat1cqaz/other_install/blob/main/All_Domain's_list.txt">All_Domain`s_list.txt</a> - список запрещенных сайтов.</li>
+<li><a href="https://github.com/lunat1cqaz/other_install/blob/main/All_Domain%2560s_list.txt">All_Domain`s_list.txt</a> - список запрещенных сайтов.</li>
 <li><a href="https://github.com/lunat1cqaz/other_install/blob/main/Domain%60s_list.txt"></link">Domain`s_list.txt</a> - домены сайтов(подготовлено для NekoRay(nekobox программы)): Youtube, ChatGPT, Discord, Instagram, Facebook, Meta, Spotify.</li>
 
 # Для мобильных устройствойств, планшетов, телевизоров (операционная система IOS/Andoid):

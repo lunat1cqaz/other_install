@@ -1,11 +1,3 @@
-domain:cdn.discordapp.com
-domain:canary.discord.com
-domain:ptb.discord.com
-domain:media.discordapp.net
-domain:images-ext-1.discordapp.net
-domain:images-ext-2.discordapp.net
-domain:stable.dl2.discordapp.net
-domain:discordsez.com
 domain:discordcdn.com
 domain:discordstatus.com
 domain:discord-attachments-uploads-prd.storage.googleapis.com
@@ -56,6 +48,11 @@ domain:youtubekids.com
 domain:instagram.com
 domain:cdninstagram.com
 domain:meta.com
-domain:facebook.com
-domain:facebook.net
-domain:spotify.com
+domain:googlevideo.com
+domain:nhacmp3youtube.com
+domain:1e100.net
+domain:ytimg.com
+domain:gvt1.com
+domain:googleusercontent.com
+domain:gstatic.com
+domain:googleapis.com

@@ -6,24 +6,24 @@
 
 # Список программ:
 <li>Операционная система Android:</li>
-1. Hiddify
-2. v2rayNG
-3. v2rayTun
+1. Hiddify<br>
+2. v2rayNG<br>
+3. v2rayTun<br>
 <li>Операционная система iOS:</li>
-1. Hiddify
-2. FoXray
-3. Streisand
+1. Hiddify<br>
+2. FoXray<br>
+3. Streisand<br>
 <li>Операционная система Windows:</li>
-1. Hiddify
-2. NekoBox (гибкая настройка трафика)
+1. Hiddify<br>
+2. NekoBox (гибкая настройка трафика)<br>
 <li>Операционная система MacOS:</li>
-1. Hiddify
-2. FoXray
-3. Streisand 
+1. Hiddify<br>
+2. FoXray<br>
+3. Streisand <br>
 <li>Операционная система Linux:</li>
-1. Hiddify
-2. NekoBox (гибкая настройка трафика)
-3. InvisibleMan-XRay
+1. Hiddify<br>
+2. NekoBox (гибкая настройка трафика)<br>
+3. InvisibleMan-XRay<br>
 
 # Как настроить программу, подключиться ? (Windows, для других операционных систем аналогично).
 

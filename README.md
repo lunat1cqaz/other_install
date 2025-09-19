@@ -4,6 +4,27 @@
 
 <code>Стандартный VPN - это общий маршрут, действует на сайтов/сервисов(не для игр).</code>
 
+Список программ:
+# Операционная система Android:
+1. Hiddify
+2. v2rayNG
+3. v2rayTun
+# Операционная система iOS:
+1. Hiddify
+2. FoXray
+3. Streisand
+# Операционная система Windows:
+1. Hiddify
+2. NekoBox (гибкая настройка трафика)
+# Операционная система MacOS:
+1. Hiddify
+2. FoXray
+3. Streisand 
+# Операционная система Linux:
+1. Hiddify
+2. NekoBox (гибкая настройка трафика)
+3. InvisibleMan-XRay
+
 # Как настроить программу, подключиться ? (Windows, для других операционных систем аналогично).
 
 <li>1. Программа с общим VPN доступом(нет гибкой настройки) - скачиваем по ссылке: <link>https://github.com/hiddify/hiddify-app/releases</link>, рекомендую стабильную версию, v2.0.5</li><br>
@@ -71,3 +92,11 @@
 1. https://github.com/hiddify/hiddify-app?tab=readme-ov-file
 2. https://github.com/MatsuriDayo/nekoray
 3. https://github.com/StreisandEffect/streisand
+
+
+
+
+
+
+
+

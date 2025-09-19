@@ -4,23 +4,23 @@
 
 <code>Стандартный VPN - это общий маршрут, действует на сайтов/сервисов(не для игр).</code>
 
-Список программ:
-# Операционная система Android:
+# Список программ:
+<Code>Операционная система Android:</Code>
 1. Hiddify
 2. v2rayNG
 3. v2rayTun
-# Операционная система iOS:
+<Code>Операционная система iOS:</Code>
 1. Hiddify
 2. FoXray
 3. Streisand
-# Операционная система Windows:
+<Code>Операционная система Windows:</Code>
 1. Hiddify
 2. NekoBox (гибкая настройка трафика)
-# Операционная система MacOS:
+<Code>Операционная система MacOS:</Code>
 1. Hiddify
 2. FoXray
 3. Streisand 
-# Операционная система Linux:
+<Code>Операционная система Linux:</Code>
 1. Hiddify
 2. NekoBox (гибкая настройка трафика)
 3. InvisibleMan-XRay
